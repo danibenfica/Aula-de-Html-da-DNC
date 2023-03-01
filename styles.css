@@ -1,0 +1,27 @@
+.allDivs  {
+    border: 10px #000 solid ;
+
+} 
+
+#div1 {
+    background-color: hotpink;
+    width: 200px;
+    height: 400x;
+} 
+#div2 {
+    background-color: burlywood;
+    width: 150px;
+    height: 30px;
+} 
+#div3 {
+    background-color: coral;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+} 
+
+h1 {
+  font-size: 80px;
+  font-family: cursive;
+} 
+
